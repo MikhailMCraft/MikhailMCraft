@@ -12,5 +12,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailMCraft&hide_border=true&theme=prussian" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailMCraft&hide_border=true&theme=prussian" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MikhailMCraft&layout=compact&hide_border=truet&show_icons=true&theme=prussian" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MikhailMCraft&hide_border=truet&show_icons=true&theme=prussian" />
 </p>
